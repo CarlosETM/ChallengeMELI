@@ -1,0 +1,4 @@
+C:\Users\manch\Desktop\QuasarSolution\Quasar.Domain\obj\Debug\netcoreapp3.1\Quasar.Domain.csprojAssemblyReference.cache
+C:\Users\manch\Desktop\QuasarSolution\Quasar.Domain\obj\Debug\netcoreapp3.1\Quasar.Domain.csproj.CoreCompileInputs.cache
+C:\Users\manch\Desktop\QuasarSolution\Quasar.Domain\obj\Debug\netcoreapp3.1\Quasar.Domain.AssemblyInfoInputs.cache
+C:\Users\manch\Desktop\QuasarSolution\Quasar.Domain\obj\Debug\netcoreapp3.1\Quasar.Domain.AssemblyInfo.cs
