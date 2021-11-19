@@ -10,7 +10,6 @@ namespace Quasar.Domain.Aggregation
    public interface ISetallitesRepository
     {
         Task<Satellite> GetLocation(float Distance);
-
         Task<Satellite> GetMessage(RequestSatelliteByMessage request);
 
         Task<List<Satellite>> TopSecret(RequestTopSecret request);

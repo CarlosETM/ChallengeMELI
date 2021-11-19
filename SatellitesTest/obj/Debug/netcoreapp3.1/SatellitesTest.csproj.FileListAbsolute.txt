@@ -198,3 +198,4 @@ C:\Users\manch\Desktop\QuasarSolution\SatellitesTest\bin\Debug\netcoreapp3.1\Top
 C:\Users\manch\Desktop\QuasarSolution\SatellitesTest\bin\Debug\netcoreapp3.1\TopSecret.Infrastructure.DataPersistent.dll
 C:\Users\manch\Desktop\QuasarSolution\SatellitesTest\obj\Debug\netcoreapp3.1\SatellitesTest.AssemblyInfoInputs.cache
 C:\Users\manch\Desktop\QuasarSolution\SatellitesTest\obj\Debug\netcoreapp3.1\SatellitesTest.AssemblyInfo.cs
+C:\Users\manch\Desktop\QuasarSolution\SatellitesTest\obj\Debug\netcoreapp3.1\SatellitesTest.csprojAssemblyReference.cache

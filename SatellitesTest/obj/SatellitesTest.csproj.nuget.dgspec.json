@@ -324,6 +324,9 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "C:\\Users\\manch\\Desktop\\QuasarSolution\\Quasar.Domain\\Quasar.Domain.csproj": {
+                "projectPath": "C:\\Users\\manch\\Desktop\\QuasarSolution\\Quasar.Domain\\Quasar.Domain.csproj"
+              },
               "C:\\Users\\manch\\Desktop\\QuasarSolution\\QuasarSolution\\TopSecret.API.csproj": {
                 "projectPath": "C:\\Users\\manch\\Desktop\\QuasarSolution\\QuasarSolution\\TopSecret.API.csproj"
               }
@@ -347,13 +350,13 @@
               "target": "Package",
               "version": "[2.1.0, )"
             },
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[3.1.8, )"
-            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
             },
             "coverlet.collector": {
               "target": "Package",

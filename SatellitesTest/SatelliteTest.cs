@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
+using TopSecret.Application.Services;
 
 namespace SatellitesTest
 {
@@ -10,10 +11,12 @@ namespace SatellitesTest
     public  class SatelliteTest
     {
 
+
+
         [TestMethod]
         public void GetSatelliteLocation() 
         {
-          //  var mockServicio = new Mock<ISatelliteService>();
+            var mockServicio = new SaltellitesService();
         }
        
 
